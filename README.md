@@ -9,12 +9,12 @@ A calorie tracking application that helps users calculate calories for meals, tr
 
 
 ##  Live Hosted App
-🔗 https://calorie-tracker.vercel.app
+🔗 https://meal-calorie-frontend-vineeth.vercel.app/
 
 ---
 
 ##  GitHub Repository
-🔗 https://github.com/vineeth221/meal-calorie-frontend-vineeth
+🔗 https://github.com/vineeth221/meal-calorie-frontend-Vineeth.git
 
 ---
 
@@ -29,6 +29,7 @@ NEXT_PUBLIC_API_BASE_URL_PROD=https://flybackend-misty-feather-6458.fly.dev
 - Tailwind CSS (UI Styling)
 - TypeScript
 - Vercel Deployment
+- Zod (Form validation & type-safe schemas)
 
 ---
 
@@ -38,6 +39,5 @@ NEXT_PUBLIC_API_BASE_URL_PROD=https://flybackend-misty-feather-6458.fly.dev
 git clone https://github.com/vineeth221/meal-calorie-frontend-vineeth.git
 cd meal-calorie-frontend
 npm install
-Zod (Form validation & type-safe schemas)
-cp .env.example .env.local
+cp .env.local
 npm run dev
